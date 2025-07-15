@@ -1,93 +1,46 @@
-# compendio-30ago2024
+# Compendio: 30 de agosto de 2024
 
 
+## Descripción
 
-## Getting started
+Este repositorio contiene los insumos de datos utilizados para generar el compendio [A quiénes nos faltan](https://media.datacivica.org/pdf/aquienesnosfaltan-2024-DATACIVICA.pdf), publicado el 30 de agosto de 2024 en el marco del Día Internacional de las Víctimas de Desapariciones Forzadas. El compendio presenta un análisis de los datos existentes sobre las personas desaparecidas en México. Identifica patrones y tendencias en los datos del RNPDNO, y analiza también el subregistro y falta de completitud de registros en esta fuente oficial.
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+El repositorio contiene scripts y datos organizados en cuatro principales directorios: `import`, `clean`, `eda`, y `descriptives` [actualizar si es necesario].
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+## Directorios principales
 
-## Add your files
+* `clean`: Limpia y transforma los datos crudos para su posterior análisis y visualización.
+* `descriptives`: Genera visualizaciones y figuras descriptivas finales.
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+### Organización de los directorios principales
 
-```
-cd existing_repo
-git remote add origin https://gitlab.com/datacivica/fusion/datacivica/compendio-30ago2024.git
-git branch -M main
-git push -uf origin main
-```
+Cada uno de los directorios principales (`import`, `clean`, `eda`, `descriptives`) puede contener los siguientes subdirectorios para organizar y estandarizar el flujo de datos en este proyecto:
 
-## Integrate with your tools
+* `input`: datos de insumo antes de ser transformados por los scripts de `src`.
+  * `clean/input` contiene los datos crudos que son limpiados en `clean/src`
+  * Todos los datos de `clean/input` fueron scrapeados de la página de la CNB [Estadística del RNDPNO por filtros](https://versionpublicarnpdno.segob.gob.mx/Dashboard/Index), utilizando [este crate](https://github.com/irvingfisica/reqrnpdno) de Morlan para scrapearlos de forma automatizada.
+* `src`: scripts utilizados para transformar los datos de `input` y/o generar los productos en `output`.
+  * `clean/src` contiene los scripts que limpian y transforman los datos scrapeados en `clean/input`.
+  * `descriptives/src` contiene los scripts que generan las visualizaciones y figuras descriptivas en `descriptives/output`.
+* `output`: datos y gráficas generadas por los scripts de `src`.
+  * `descriptives/output` contiene las visualizaciones y figuras descriptivas generadas por los scripts de `descriptives/src`.
 
-- [ ] [Set up project integrations](https://gitlab.com/datacivica/fusion/datacivica/compendio-30ago2024/-/settings/integrations)
+## Fuentes de datos
 
-## Collaborate with your team
+* **Registro Nacional de Personas Desaparecidas y No Localizadas (RNPDNO)**: se usaron dos formatos de esta misma fuente:
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Set auto-merge](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+1. Datos scrapeados 22/7/2024 de la página [Estadística del RNDPNO por filtros](https://versionpublicarnpdno.segob.gob.mx/Dashboard/Index), utilizando [este crate](https://github.com/irvingfisica/reqrnpdno)
 
-## Test and Deploy
+2. Versión pública del RNPDNO en formato JSON, actualizada 5/8/2023.
 
-Use the built-in continuous integration in GitLab.
+Cada visualización especifica la fuente de datos utilizada para su generación. 
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+* **Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE)**: encuesta nacional realizada por el INEGI que proporciona información sobre la victimización y la percepción de seguridad en México. Incluye una pregunta sobre la desaparición forzada de integrantes de la vivienda durante el año anterior. Se utilizaron las encuestas publicadas 2013-2023.
 
-***
+## Licencia
 
-# Editing this README
+Data Cívica 2024 ©
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
+Para dudas sobre el contenido de este reposito, por favor contactar a Sierra Wells en sierra.wells@datacivica.org.
 
-## Suggestions for a good README
-
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+<!-- done -->
