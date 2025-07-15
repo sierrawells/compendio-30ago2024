@@ -1,0 +1,164 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "100.00",
+    "PorcentajeLocalizados": "0.00",
+    "PorcentajeLocalizadosCV": "0.00",
+    "PorcentajeLocalizadosSV": "0.00",
+    "PorcentajeSoloDesaparecidos": "100.00",
+    "PorcentajeSoloNoLocalizados": "0.00",
+    "TotalDesaparecidos": "10",
+    "TotalGlobal": "10",
+    "TotalLocalizados": "00",
+    "TotalLocalizadosCV": "00",
+    "TotalLocalizadosSV": "00",
+    "TotalSoloDesaparecidos": "10",
+    "TotalSoloNoLocalizados": "00"
+  },
+  "espacial": {
+    "Hombres": {
+      "CALAKMUL": 0,
+      "CAMPECHE": 2,
+      "CARMEN": 1,
+      "ESCÁRCEGA": 0,
+      "PALIZADA": 0
+    },
+    "Indeterminado": {
+      "CALAKMUL": 0,
+      "CAMPECHE": 0,
+      "CARMEN": 0,
+      "ESCÁRCEGA": 0,
+      "PALIZADA": 0
+    },
+    "Mujeres": {
+      "CALAKMUL": 1,
+      "CAMPECHE": 3,
+      "CARMEN": 1,
+      "ESCÁRCEGA": 1,
+      "PALIZADA": 1
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "2013": 1,
+      "2014": 0,
+      "2015": 0,
+      "2017": 0,
+      "2023": 1,
+      "2024": 1
+    },
+    "Indeterminado": {
+      "2013": 0,
+      "2014": 0,
+      "2015": 0,
+      "2017": 0,
+      "2023": 0,
+      "2024": 0
+    },
+    "Mujer": {
+      "2013": 0,
+      "2014": 2,
+      "2015": 1,
+      "2017": 1,
+      "2023": 1,
+      "2024": 2
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "2013-JUNIO": 1,
+      "2014-FEBRERO": 0,
+      "2014-NOVIEMBRE": 0,
+      "2015-OCTUBRE": 0,
+      "2017-AGOSTO": 0,
+      "2023-DICIEMBRE": 1,
+      "2024-ENERO": 0,
+      "2024-JULIO": 1
+    },
+    "Indeterminado": {
+      "2013-JUNIO": 0,
+      "2014-FEBRERO": 0,
+      "2014-NOVIEMBRE": 0,
+      "2015-OCTUBRE": 0,
+      "2017-AGOSTO": 0,
+      "2023-DICIEMBRE": 0,
+      "2024-ENERO": 0,
+      "2024-JULIO": 0
+    },
+    "Mujer": {
+      "2013-JUNIO": 0,
+      "2014-FEBRERO": 1,
+      "2014-NOVIEMBRE": 1,
+      "2015-OCTUBRE": 1,
+      "2017-AGOSTO": 1,
+      "2023-DICIEMBRE": 1,
+      "2024-ENERO": 2,
+      "2024-JULIO": 0
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "13": 0,
+      "15": 0,
+      "16": 1,
+      "17": 0,
+      "18": 2
+    },
+    "Indeterminado": {
+      "13": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0
+    },
+    "Mujeres": {
+      "13": 4,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 0
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "MEXICANA": 3
+    },
+    "Indeterminado": {
+      "MEXICANA": 0
+    },
+    "Mujeres": {
+      "MEXICANA": 7
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS DESAPARECIDAS",
+    "id_estatus_victima": "4",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "4",
+    "id_municipio": "0",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "10",
+    "edad_fin": "19",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

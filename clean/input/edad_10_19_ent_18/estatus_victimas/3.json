@@ -1,0 +1,182 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "0.00",
+    "PorcentajeLocalizados": "100.00",
+    "PorcentajeLocalizadosCV": "0.00",
+    "PorcentajeLocalizadosSV": "100.00",
+    "PorcentajeSoloDesaparecidos": "0.00",
+    "PorcentajeSoloNoLocalizados": "0.00",
+    "TotalDesaparecidos": "00",
+    "TotalGlobal": "12",
+    "TotalLocalizados": "12",
+    "TotalLocalizadosCV": "00",
+    "TotalLocalizadosSV": "12",
+    "TotalSoloDesaparecidos": "00",
+    "TotalSoloNoLocalizados": "00"
+  },
+  "espacial": {
+    "Hombres": {
+      "BAHÍA DE BANDERAS": 1,
+      "LA YESCA": 1,
+      "SAN BLAS": 0,
+      "SANTIAGO IXCUINTLA": 1,
+      "SIN MUNICIPIO DE REFERENCIA": 2,
+      "TEPIC": 4,
+      "TUXPAN": 0
+    },
+    "Indeterminado": {
+      "BAHÍA DE BANDERAS": 0,
+      "LA YESCA": 0,
+      "SAN BLAS": 0,
+      "SANTIAGO IXCUINTLA": 0,
+      "SIN MUNICIPIO DE REFERENCIA": 0,
+      "TEPIC": 0,
+      "TUXPAN": 0
+    },
+    "Mujeres": {
+      "BAHÍA DE BANDERAS": 0,
+      "LA YESCA": 0,
+      "SAN BLAS": 1,
+      "SANTIAGO IXCUINTLA": 0,
+      "SIN MUNICIPIO DE REFERENCIA": 0,
+      "TEPIC": 1,
+      "TUXPAN": 1
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 1,
+      "2017": 3,
+      "2018": 1,
+      "2019": 1,
+      "2020": 1,
+      "2021": 0,
+      "2023": 2
+    },
+    "Indeterminado": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 0,
+      "2017": 0,
+      "2018": 0,
+      "2019": 0,
+      "2020": 0,
+      "2021": 0,
+      "2023": 0
+    },
+    "Mujer": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 2,
+      "2017": 0,
+      "2018": 0,
+      "2019": 0,
+      "2020": 0,
+      "2021": 1,
+      "2023": 0
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 1,
+      "2017-AGOSTO": 1,
+      "2017-JUNIO": 1,
+      "2017-MAYO": 1,
+      "2018-JULIO": 1,
+      "2019-MAYO": 1,
+      "2020-MAYO": 1,
+      "2021-MARZO": 0,
+      "2023-JULIO": 1,
+      "2023-JUNIO": 1
+    },
+    "Indeterminado": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 0,
+      "2017-AGOSTO": 0,
+      "2017-JUNIO": 0,
+      "2017-MAYO": 0,
+      "2018-JULIO": 0,
+      "2019-MAYO": 0,
+      "2020-MAYO": 0,
+      "2021-MARZO": 0,
+      "2023-JULIO": 0,
+      "2023-JUNIO": 0
+    },
+    "Mujer": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 2,
+      "2017-AGOSTO": 0,
+      "2017-JUNIO": 0,
+      "2017-MAYO": 0,
+      "2018-JULIO": 0,
+      "2019-MAYO": 0,
+      "2020-MAYO": 0,
+      "2021-MARZO": 1,
+      "2023-JULIO": 0,
+      "2023-JUNIO": 0
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "11": 1,
+      "13": 1,
+      "15": 0,
+      "16": 3,
+      "18": 3,
+      "19": 1
+    },
+    "Indeterminado": {
+      "11": 0,
+      "13": 0,
+      "15": 0,
+      "16": 0,
+      "18": 0,
+      "19": 0
+    },
+    "Mujeres": {
+      "11": 0,
+      "13": 0,
+      "15": 1,
+      "16": 0,
+      "18": 1,
+      "19": 1
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "MEXICANA": 9
+    },
+    "Indeterminado": {
+      "MEXICANA": 0
+    },
+    "Mujeres": {
+      "MEXICANA": 3
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS LOCALIZADAS SIN VIDA",
+    "id_estatus_victima": "3",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "18",
+    "id_municipio": "0",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "10",
+    "edad_fin": "19",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

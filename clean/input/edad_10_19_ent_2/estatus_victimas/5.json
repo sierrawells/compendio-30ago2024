@@ -1,0 +1,137 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "100.00",
+    "PorcentajeLocalizados": "0.00",
+    "PorcentajeLocalizadosCV": "0.00",
+    "PorcentajeLocalizadosSV": "0.00",
+    "PorcentajeSoloDesaparecidos": "0.00",
+    "PorcentajeSoloNoLocalizados": "100.00",
+    "TotalDesaparecidos": "05",
+    "TotalGlobal": "05",
+    "TotalLocalizados": "00",
+    "TotalLocalizadosCV": "00",
+    "TotalLocalizadosSV": "00",
+    "TotalSoloDesaparecidos": "00",
+    "TotalSoloNoLocalizados": "05"
+  },
+  "espacial": {
+    "Hombres": {
+      "MEXICALI": 0,
+      "TIJUANA": 1
+    },
+    "Indeterminado": {
+      "MEXICALI": 0,
+      "TIJUANA": 0
+    },
+    "Mujeres": {
+      "MEXICALI": 1,
+      "TIJUANA": 3
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "2020": 0,
+      "2021": 1,
+      "2022": 0
+    },
+    "Indeterminado": {
+      "2020": 0,
+      "2021": 0,
+      "2022": 0
+    },
+    "Mujer": {
+      "2020": 2,
+      "2021": 1,
+      "2022": 1
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "2020-AGOSTO": 0,
+      "2020-MAYO": 0,
+      "2021-JULIO": 0,
+      "2021-MARZO": 1,
+      "2022-NOVIEMBRE": 0
+    },
+    "Indeterminado": {
+      "2020-AGOSTO": 0,
+      "2020-MAYO": 0,
+      "2021-JULIO": 0,
+      "2021-MARZO": 0,
+      "2022-NOVIEMBRE": 0
+    },
+    "Mujer": {
+      "2020-AGOSTO": 1,
+      "2020-MAYO": 1,
+      "2021-JULIO": 1,
+      "2021-MARZO": 0,
+      "2022-NOVIEMBRE": 1
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "13": 0,
+      "15": 0,
+      "17": 1,
+      "18": 0
+    },
+    "Indeterminado": {
+      "13": 0,
+      "15": 0,
+      "17": 0,
+      "18": 0
+    },
+    "Mujeres": {
+      "13": 1,
+      "15": 1,
+      "17": 0,
+      "18": 2
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "HONDUREÑA": 0,
+      "MEXICANA": 1
+    },
+    "Indeterminado": {
+      "HONDUREÑA": 0,
+      "MEXICANA": 0
+    },
+    "Mujeres": {
+      "HONDUREÑA": 1,
+      "MEXICANA": 3
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS NO LOCALIZADAS",
+    "id_estatus_victima": "5",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "2",
+    "id_municipio": "0",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "10",
+    "edad_fin": "19",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

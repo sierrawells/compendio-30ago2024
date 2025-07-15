@@ -1,0 +1,242 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "100.00",
+    "PorcentajeLocalizados": "0.00",
+    "PorcentajeLocalizadosCV": "0.00",
+    "PorcentajeLocalizadosSV": "0.00",
+    "PorcentajeSoloDesaparecidos": "0.00",
+    "PorcentajeSoloNoLocalizados": "100.00",
+    "TotalDesaparecidos": "54",
+    "TotalGlobal": "54",
+    "TotalLocalizados": "00",
+    "TotalLocalizadosCV": "00",
+    "TotalLocalizadosSV": "00",
+    "TotalSoloDesaparecidos": "00",
+    "TotalSoloNoLocalizados": "54"
+  },
+  "espacial": {
+    "Hombres": {
+      "ACAJETE": 0,
+      "ACATZINGO": 1,
+      "ATEXCAL": 0,
+      "ATLIXCO": 2,
+      "CHICHIQUILA": 0,
+      "CHIETLA": 1,
+      "CHIGNAHUAPAN": 1,
+      "HUATLATLAUCA": 0,
+      "HUAUCHINANGO": 0,
+      "IZÚCAR DE MATAMOROS": 1,
+      "PANTEPEC": 0,
+      "PUEBLA": 7,
+      "SAN ANDRÉS CHOLULA": 1,
+      "SAN MARTÍN TEXMELUCAN": 1,
+      "SAN PEDRO CHOLULA": 1,
+      "TECAMACHALCO": 0,
+      "TEHUACÁN": 4,
+      "TEPEACA": 2,
+      "TEPEOJUMA": 0,
+      "TEZIUTLÁN": 1,
+      "TLACOTEPEC DE BENITO JUÁREZ": 0,
+      "TLAHUAPAN": 1,
+      "TLATLAUQUITEPEC": 0,
+      "TOCHTEPEC": 1,
+      "XICOTEPEC": 1,
+      "YAONÁHUAC": 0,
+      "ZACAPOAXTLA": 1,
+      "ZACATLÁN": 0,
+      "ZARAGOZA": 0
+    },
+    "Indeterminado": {
+      "ACAJETE": 0,
+      "ACATZINGO": 0,
+      "ATEXCAL": 0,
+      "ATLIXCO": 0,
+      "CHICHIQUILA": 0,
+      "CHIETLA": 0,
+      "CHIGNAHUAPAN": 0,
+      "HUATLATLAUCA": 0,
+      "HUAUCHINANGO": 0,
+      "IZÚCAR DE MATAMOROS": 0,
+      "PANTEPEC": 0,
+      "PUEBLA": 0,
+      "SAN ANDRÉS CHOLULA": 0,
+      "SAN MARTÍN TEXMELUCAN": 0,
+      "SAN PEDRO CHOLULA": 0,
+      "TECAMACHALCO": 0,
+      "TEHUACÁN": 0,
+      "TEPEACA": 0,
+      "TEPEOJUMA": 0,
+      "TEZIUTLÁN": 0,
+      "TLACOTEPEC DE BENITO JUÁREZ": 0,
+      "TLAHUAPAN": 0,
+      "TLATLAUQUITEPEC": 0,
+      "TOCHTEPEC": 0,
+      "XICOTEPEC": 0,
+      "YAONÁHUAC": 0,
+      "ZACAPOAXTLA": 0,
+      "ZACATLÁN": 0,
+      "ZARAGOZA": 0
+    },
+    "Mujeres": {
+      "ACAJETE": 1,
+      "ACATZINGO": 0,
+      "ATEXCAL": 1,
+      "ATLIXCO": 2,
+      "CHICHIQUILA": 1,
+      "CHIETLA": 0,
+      "CHIGNAHUAPAN": 1,
+      "HUATLATLAUCA": 1,
+      "HUAUCHINANGO": 2,
+      "IZÚCAR DE MATAMOROS": 0,
+      "PANTEPEC": 1,
+      "PUEBLA": 6,
+      "SAN ANDRÉS CHOLULA": 0,
+      "SAN MARTÍN TEXMELUCAN": 0,
+      "SAN PEDRO CHOLULA": 0,
+      "TECAMACHALCO": 1,
+      "TEHUACÁN": 2,
+      "TEPEACA": 0,
+      "TEPEOJUMA": 1,
+      "TEZIUTLÁN": 0,
+      "TLACOTEPEC DE BENITO JUÁREZ": 2,
+      "TLAHUAPAN": 0,
+      "TLATLAUQUITEPEC": 2,
+      "TOCHTEPEC": 0,
+      "XICOTEPEC": 0,
+      "YAONÁHUAC": 1,
+      "ZACAPOAXTLA": 0,
+      "ZACATLÁN": 1,
+      "ZARAGOZA": 1
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 19,
+      "2021": 5,
+      "2022": 3
+    },
+    "Indeterminado": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 0,
+      "2021": 0,
+      "2022": 0
+    },
+    "Mujer": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 26,
+      "2021": 1,
+      "2022": 0
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 19,
+      "2021-DICIEMBRE": 2,
+      "2021-JULIO": 1,
+      "2021-JUNIO": 1,
+      "2021-NOVIEMBRE": 1,
+      "2021-OCTUBRE": 0,
+      "2022-DICIEMBRE": 1,
+      "2022-SEPTIEMBRE": 2
+    },
+    "Indeterminado": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 0,
+      "2021-DICIEMBRE": 0,
+      "2021-JULIO": 0,
+      "2021-JUNIO": 0,
+      "2021-NOVIEMBRE": 0,
+      "2021-OCTUBRE": 0,
+      "2022-DICIEMBRE": 0,
+      "2022-SEPTIEMBRE": 0
+    },
+    "Mujer": {
+      "0-CIFRA SIN AÑO NI MES DE REFERENCIA": 26,
+      "2021-DICIEMBRE": 0,
+      "2021-JULIO": 0,
+      "2021-JUNIO": 0,
+      "2021-NOVIEMBRE": 0,
+      "2021-OCTUBRE": 1,
+      "2022-DICIEMBRE": 0,
+      "2022-SEPTIEMBRE": 0
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "10": 0,
+      "11": 2,
+      "12": 1,
+      "13": 2,
+      "14": 3,
+      "15": 1,
+      "16": 2,
+      "17": 5,
+      "18": 3,
+      "19": 8
+    },
+    "Indeterminado": {
+      "10": 0,
+      "11": 0,
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0
+    },
+    "Mujeres": {
+      "10": 1,
+      "11": 0,
+      "12": 3,
+      "13": 0,
+      "14": 1,
+      "15": 4,
+      "16": 9,
+      "17": 4,
+      "18": 4,
+      "19": 1
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "MEXICANA": 27
+    },
+    "Indeterminado": {
+      "MEXICANA": 0
+    },
+    "Mujeres": {
+      "MEXICANA": 27
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS NO LOCALIZADAS",
+    "id_estatus_victima": "5",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "21",
+    "id_municipio": "0",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "10",
+    "edad_fin": "19",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

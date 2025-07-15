@@ -1,0 +1,146 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "100.00",
+    "PorcentajeLocalizados": "0.00",
+    "PorcentajeLocalizadosCV": "0.00",
+    "PorcentajeLocalizadosSV": "0.00",
+    "PorcentajeSoloDesaparecidos": "0.00",
+    "PorcentajeSoloNoLocalizados": "100.00",
+    "TotalDesaparecidos": "22",
+    "TotalGlobal": "22",
+    "TotalLocalizados": "00",
+    "TotalLocalizadosCV": "00",
+    "TotalLocalizadosSV": "00",
+    "TotalSoloDesaparecidos": "00",
+    "TotalSoloNoLocalizados": "22"
+  },
+  "espacial": {
+    "Hombres": {
+      "CENTRO": 10
+    },
+    "Indeterminado": {
+      "CENTRO": 0
+    },
+    "Mujeres": {
+      "CENTRO": 12
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "2020": 1,
+      "2021": 9,
+      "2023": 0
+    },
+    "Indeterminado": {
+      "2020": 0,
+      "2021": 0,
+      "2023": 0
+    },
+    "Mujer": {
+      "2020": 0,
+      "2021": 11,
+      "2023": 1
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "2020-OCTUBRE": 1,
+      "2021-ABRIL": 9,
+      "2021-MAYO": 0,
+      "2023-ENERO": 0
+    },
+    "Indeterminado": {
+      "2020-OCTUBRE": 0,
+      "2021-ABRIL": 0,
+      "2021-MAYO": 0,
+      "2023-ENERO": 0
+    },
+    "Mujer": {
+      "2020-OCTUBRE": 0,
+      "2021-ABRIL": 8,
+      "2021-MAYO": 3,
+      "2023-ENERO": 1
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "12": 0,
+      "14": 0,
+      "15": 1,
+      "16": 4,
+      "17": 3,
+      "18": 1,
+      "19": 1
+    },
+    "Indeterminado": {
+      "12": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0
+    },
+    "Mujeres": {
+      "12": 1,
+      "14": 2,
+      "15": 3,
+      "16": 2,
+      "17": 3,
+      "18": 1,
+      "19": 0
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "GUATEMALTECA": 1,
+      "HONDUREÑA": 7,
+      "MEXICANA": 1,
+      "SALVADORENA": 1
+    },
+    "Indeterminado": {
+      "GUATEMALTECA": 0,
+      "HONDUREÑA": 0,
+      "MEXICANA": 0,
+      "SALVADORENA": 0
+    },
+    "Mujeres": {
+      "GUATEMALTECA": 0,
+      "HONDUREÑA": 12,
+      "MEXICANA": 0,
+      "SALVADORENA": 0
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS NO LOCALIZADAS",
+    "id_estatus_victima": "5",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "27",
+    "id_municipio": "0",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "10",
+    "edad_fin": "19",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

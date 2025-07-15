@@ -1,0 +1,128 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "100.00",
+    "PorcentajeLocalizados": "0.00",
+    "PorcentajeLocalizadosCV": "0.00",
+    "PorcentajeLocalizadosSV": "0.00",
+    "PorcentajeSoloDesaparecidos": "0.00",
+    "PorcentajeSoloNoLocalizados": "100.00",
+    "TotalDesaparecidos": "03",
+    "TotalGlobal": "03",
+    "TotalLocalizados": "00",
+    "TotalLocalizadosCV": "00",
+    "TotalLocalizadosSV": "00",
+    "TotalSoloDesaparecidos": "00",
+    "TotalSoloNoLocalizados": "03"
+  },
+  "espacial": {
+    "Hombres": {
+      "GENERAL PLUTARCO ELÍAS CALLES": 1,
+      "HERMOSILLO": 1,
+      "SE DESCONOCE": 1
+    },
+    "Indeterminado": {
+      "GENERAL PLUTARCO ELÍAS CALLES": 0,
+      "HERMOSILLO": 0,
+      "SE DESCONOCE": 0
+    },
+    "Mujeres": {
+      "GENERAL PLUTARCO ELÍAS CALLES": 0,
+      "HERMOSILLO": 0,
+      "SE DESCONOCE": 0
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "2020": 1,
+      "2021": 2
+    },
+    "Indeterminado": {
+      "2020": 0,
+      "2021": 0
+    },
+    "Mujer": {
+      "2020": 0,
+      "2021": 0
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "2020-AGOSTO": 1,
+      "2021-AGOSTO": 1,
+      "2021-SEPTIEMBRE": 1
+    },
+    "Indeterminado": {
+      "2020-AGOSTO": 0,
+      "2021-AGOSTO": 0,
+      "2021-SEPTIEMBRE": 0
+    },
+    "Mujer": {
+      "2020-AGOSTO": 0,
+      "2021-AGOSTO": 0,
+      "2021-SEPTIEMBRE": 0
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "17": 1,
+      "18": 1,
+      "19": 1
+    },
+    "Indeterminado": {
+      "17": 0,
+      "18": 0,
+      "19": 0
+    },
+    "Mujeres": {
+      "17": 0,
+      "18": 0,
+      "19": 0
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "MEXICANA": 2,
+      "NICARAGUENSE": 1
+    },
+    "Indeterminado": {
+      "MEXICANA": 0,
+      "NICARAGUENSE": 0
+    },
+    "Mujeres": {
+      "MEXICANA": 0,
+      "NICARAGUENSE": 0
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS NO LOCALIZADAS",
+    "id_estatus_victima": "5",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "26",
+    "id_municipio": "0",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "10",
+    "edad_fin": "19",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

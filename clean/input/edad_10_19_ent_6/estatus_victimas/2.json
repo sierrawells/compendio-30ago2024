@@ -1,0 +1,242 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "0.00",
+    "PorcentajeLocalizados": "100.00",
+    "PorcentajeLocalizadosCV": "100.00",
+    "PorcentajeLocalizadosSV": "0.00",
+    "PorcentajeSoloDesaparecidos": "0.00",
+    "PorcentajeSoloNoLocalizados": "0.00",
+    "TotalDesaparecidos": "00",
+    "TotalGlobal": "1246",
+    "TotalLocalizados": "1246",
+    "TotalLocalizadosCV": "1246",
+    "TotalLocalizadosSV": "00",
+    "TotalSoloDesaparecidos": "00",
+    "TotalSoloNoLocalizados": "00"
+  },
+  "espacial": {
+    "Hombres": {
+      "ARMERÍA": 8,
+      "COLIMA": 124,
+      "COMALA": 5,
+      "COQUIMATLÁN": 9,
+      "CUAUHTÉMOC": 10,
+      "IXTLAHUACÁN": 1,
+      "MANZANILLO": 55,
+      "MINATITLÁN": 0,
+      "SIN MUNICIPIO DE REFERENCIA": 6,
+      "TECOMÁN": 39,
+      "VILLA DE ALVAREZ": 54
+    },
+    "Indeterminado": {
+      "ARMERÍA": 0,
+      "COLIMA": 0,
+      "COMALA": 0,
+      "COQUIMATLÁN": 0,
+      "CUAUHTÉMOC": 0,
+      "IXTLAHUACÁN": 0,
+      "MANZANILLO": 0,
+      "MINATITLÁN": 0,
+      "SIN MUNICIPIO DE REFERENCIA": 0,
+      "TECOMÁN": 0,
+      "VILLA DE ALVAREZ": 0
+    },
+    "Mujeres": {
+      "ARMERÍA": 32,
+      "COLIMA": 321,
+      "COMALA": 8,
+      "COQUIMATLÁN": 24,
+      "CUAUHTÉMOC": 24,
+      "IXTLAHUACÁN": 1,
+      "MANZANILLO": 174,
+      "MINATITLÁN": 5,
+      "SIN MUNICIPIO DE REFERENCIA": 16,
+      "TECOMÁN": 165,
+      "VILLA DE ALVAREZ": 165
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 48,
+      "2000": 0,
+      "2009": 0,
+      "2010": 1,
+      "2011": 3,
+      "2012": 9,
+      "2013": 47,
+      "2014": 53,
+      "2015": 24,
+      "2016": 19,
+      "2017": 42,
+      "2018": 17,
+      "2019": 4,
+      "2020": 12,
+      "2021": 16,
+      "2022": 16
+    },
+    "Indeterminado": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 0,
+      "2000": 0,
+      "2009": 0,
+      "2010": 0,
+      "2011": 0,
+      "2012": 0,
+      "2013": 0,
+      "2014": 0,
+      "2015": 0,
+      "2016": 0,
+      "2017": 0,
+      "2018": 0,
+      "2019": 0,
+      "2020": 0,
+      "2021": 0,
+      "2022": 0
+    },
+    "Mujer": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 116,
+      "2000": 1,
+      "2009": 2,
+      "2010": 1,
+      "2011": 10,
+      "2012": 51,
+      "2013": 148,
+      "2014": 194,
+      "2015": 59,
+      "2016": 63,
+      "2017": 127,
+      "2018": 36,
+      "2019": 7,
+      "2020": 37,
+      "2021": 60,
+      "2022": 23
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "2021-DICIEMBRE": 1,
+      "2021-NOVIEMBRE": 1,
+      "2021-OCTUBRE": 3,
+      "2022-ABRIL": 1,
+      "2022-AGOSTO": 0,
+      "2022-ENERO": 4,
+      "2022-FEBRERO": 0,
+      "2022-JULIO": 5,
+      "2022-JUNIO": 1,
+      "2022-MAYO": 2,
+      "2022-OCTUBRE": 2,
+      "2022-SEPTIEMBRE": 1
+    },
+    "Indeterminado": {
+      "2021-DICIEMBRE": 0,
+      "2021-NOVIEMBRE": 0,
+      "2021-OCTUBRE": 0,
+      "2022-ABRIL": 0,
+      "2022-AGOSTO": 0,
+      "2022-ENERO": 0,
+      "2022-FEBRERO": 0,
+      "2022-JULIO": 0,
+      "2022-JUNIO": 0,
+      "2022-MAYO": 0,
+      "2022-OCTUBRE": 0,
+      "2022-SEPTIEMBRE": 0
+    },
+    "Mujer": {
+      "2021-DICIEMBRE": 3,
+      "2021-NOVIEMBRE": 2,
+      "2021-OCTUBRE": 3,
+      "2022-ABRIL": 1,
+      "2022-AGOSTO": 2,
+      "2022-ENERO": 8,
+      "2022-FEBRERO": 1,
+      "2022-JULIO": 1,
+      "2022-JUNIO": 5,
+      "2022-MAYO": 4,
+      "2022-OCTUBRE": 1,
+      "2022-SEPTIEMBRE": 0
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "10": 13,
+      "11": 8,
+      "12": 14,
+      "13": 24,
+      "14": 50,
+      "15": 52,
+      "16": 57,
+      "17": 37,
+      "18": 31,
+      "19": 25
+    },
+    "Indeterminado": {
+      "10": 0,
+      "11": 0,
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0
+    },
+    "Mujeres": {
+      "10": 5,
+      "11": 17,
+      "12": 47,
+      "13": 106,
+      "14": 183,
+      "15": 208,
+      "16": 174,
+      "17": 112,
+      "18": 53,
+      "19": 30
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "ESTADOUNIDENSE": 3,
+      "MEXICANA": 308
+    },
+    "Indeterminado": {
+      "ESTADOUNIDENSE": 0,
+      "MEXICANA": 0
+    },
+    "Mujeres": {
+      "ESTADOUNIDENSE": 6,
+      "MEXICANA": 929
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS LOCALIZADAS CON VIDA",
+    "id_estatus_victima": "2",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "6",
+    "id_municipio": "0",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "10",
+    "edad_fin": "19",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

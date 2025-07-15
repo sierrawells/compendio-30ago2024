@@ -1,0 +1,236 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "100.00",
+    "PorcentajeLocalizados": "0.00",
+    "PorcentajeLocalizadosCV": "0.00",
+    "PorcentajeLocalizadosSV": "0.00",
+    "PorcentajeSoloDesaparecidos": "0.00",
+    "PorcentajeSoloNoLocalizados": "100.00",
+    "TotalDesaparecidos": "53",
+    "TotalGlobal": "53",
+    "TotalLocalizados": "00",
+    "TotalLocalizadosCV": "00",
+    "TotalLocalizadosSV": "00",
+    "TotalSoloDesaparecidos": "00",
+    "TotalSoloNoLocalizados": "53"
+  },
+  "espacial": {
+    "Hombres": {
+      "AZCAPOTZALCO": 2,
+      "BENITO JUÁREZ": 0,
+      "COYOACÁN": 1,
+      "CUAJIMALPA DE MORELOS": 0,
+      "CUAUHTÉMOC": 4,
+      "GUSTAVO A. MADERO": 11,
+      "IZTACALCO": 0,
+      "IZTAPALAPA": 2,
+      "MAGDALENA CONTRERAS": 1,
+      "MIGUEL HIDALGO": 1,
+      "MILPA ALTA": 0,
+      "SE DESCONOCE": 1,
+      "VENUSTIANO CARRANZA": 0,
+      "XOCHIMILCO": 1,
+      "ÁLVARO OBREGÓN": 2
+    },
+    "Indeterminado": {
+      "AZCAPOTZALCO": 0,
+      "BENITO JUÁREZ": 0,
+      "COYOACÁN": 0,
+      "CUAJIMALPA DE MORELOS": 0,
+      "CUAUHTÉMOC": 0,
+      "GUSTAVO A. MADERO": 1,
+      "IZTACALCO": 0,
+      "IZTAPALAPA": 0,
+      "MAGDALENA CONTRERAS": 0,
+      "MIGUEL HIDALGO": 1,
+      "MILPA ALTA": 0,
+      "SE DESCONOCE": 0,
+      "VENUSTIANO CARRANZA": 0,
+      "XOCHIMILCO": 0,
+      "ÁLVARO OBREGÓN": 0
+    },
+    "Mujeres": {
+      "AZCAPOTZALCO": 1,
+      "BENITO JUÁREZ": 2,
+      "COYOACÁN": 0,
+      "CUAJIMALPA DE MORELOS": 1,
+      "CUAUHTÉMOC": 5,
+      "GUSTAVO A. MADERO": 4,
+      "IZTACALCO": 1,
+      "IZTAPALAPA": 4,
+      "MAGDALENA CONTRERAS": 0,
+      "MIGUEL HIDALGO": 2,
+      "MILPA ALTA": 1,
+      "SE DESCONOCE": 0,
+      "VENUSTIANO CARRANZA": 1,
+      "XOCHIMILCO": 0,
+      "ÁLVARO OBREGÓN": 3
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "2016": 1,
+      "2020": 14,
+      "2021": 2,
+      "2022": 7,
+      "2023": 2
+    },
+    "Indeterminado": {
+      "2016": 0,
+      "2020": 1,
+      "2021": 0,
+      "2022": 1,
+      "2023": 0
+    },
+    "Mujer": {
+      "2016": 0,
+      "2020": 22,
+      "2021": 0,
+      "2022": 2,
+      "2023": 1
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "2021-JUNIO": 1,
+      "2021-NOVIEMBRE": 1,
+      "2022-ABRIL": 1,
+      "2022-AGOSTO": 1,
+      "2022-DICIEMBRE": 1,
+      "2022-JUNIO": 0,
+      "2022-MAYO": 1,
+      "2022-NOVIEMBRE": 0,
+      "2022-OCTUBRE": 2,
+      "2022-SEPTIEMBRE": 1,
+      "2023-ENERO": 0,
+      "2023-OCTUBRE": 2
+    },
+    "Indeterminado": {
+      "2021-JUNIO": 0,
+      "2021-NOVIEMBRE": 0,
+      "2022-ABRIL": 0,
+      "2022-AGOSTO": 0,
+      "2022-DICIEMBRE": 0,
+      "2022-JUNIO": 0,
+      "2022-MAYO": 0,
+      "2022-NOVIEMBRE": 1,
+      "2022-OCTUBRE": 0,
+      "2022-SEPTIEMBRE": 0,
+      "2023-ENERO": 0,
+      "2023-OCTUBRE": 0
+    },
+    "Mujer": {
+      "2021-JUNIO": 0,
+      "2021-NOVIEMBRE": 0,
+      "2022-ABRIL": 0,
+      "2022-AGOSTO": 0,
+      "2022-DICIEMBRE": 0,
+      "2022-JUNIO": 1,
+      "2022-MAYO": 0,
+      "2022-NOVIEMBRE": 0,
+      "2022-OCTUBRE": 1,
+      "2022-SEPTIEMBRE": 0,
+      "2023-ENERO": 1,
+      "2023-OCTUBRE": 0
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "10": 1,
+      "12": 0,
+      "13": 2,
+      "14": 2,
+      "15": 5,
+      "16": 6,
+      "17": 5,
+      "18": 3,
+      "19": 2
+    },
+    "Indeterminado": {
+      "10": 0,
+      "12": 0,
+      "13": 1,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 1,
+      "19": 0
+    },
+    "Mujeres": {
+      "10": 1,
+      "12": 1,
+      "13": 4,
+      "14": 2,
+      "15": 4,
+      "16": 5,
+      "17": 5,
+      "18": 1,
+      "19": 2
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "BANGLADESH": 1,
+      "DOMINICANA": 1,
+      "GUATEMALTECA": 2,
+      "HONDUREÑA": 5,
+      "MEXICANA": 15,
+      "NICARAGUENSE": 1,
+      "SALVADORENA": 1,
+      "SE DESCONOCE": 0
+    },
+    "Indeterminado": {
+      "BANGLADESH": 0,
+      "DOMINICANA": 0,
+      "GUATEMALTECA": 0,
+      "HONDUREÑA": 0,
+      "MEXICANA": 2,
+      "NICARAGUENSE": 0,
+      "SALVADORENA": 0,
+      "SE DESCONOCE": 0
+    },
+    "Mujeres": {
+      "BANGLADESH": 0,
+      "DOMINICANA": 0,
+      "GUATEMALTECA": 0,
+      "HONDUREÑA": 3,
+      "MEXICANA": 21,
+      "NICARAGUENSE": 0,
+      "SALVADORENA": 0,
+      "SE DESCONOCE": 1
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS NO LOCALIZADAS",
+    "id_estatus_victima": "5",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "9",
+    "id_municipio": "0",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "10",
+    "edad_fin": "19",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

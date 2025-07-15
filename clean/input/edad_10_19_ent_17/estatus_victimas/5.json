@@ -1,0 +1,239 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "100.00",
+    "PorcentajeLocalizados": "0.00",
+    "PorcentajeLocalizadosCV": "0.00",
+    "PorcentajeLocalizadosSV": "0.00",
+    "PorcentajeSoloDesaparecidos": "0.00",
+    "PorcentajeSoloNoLocalizados": "100.00",
+    "TotalDesaparecidos": "70",
+    "TotalGlobal": "70",
+    "TotalLocalizados": "00",
+    "TotalLocalizadosCV": "00",
+    "TotalLocalizadosSV": "00",
+    "TotalSoloDesaparecidos": "00",
+    "TotalSoloNoLocalizados": "70"
+  },
+  "espacial": {
+    "Hombres": {
+      "AMACUZAC": 2,
+      "ATLATLAHUCAN": 0,
+      "AXOCHIAPAN": 0,
+      "CUAUTLA": 3,
+      "CUERNAVACA": 3,
+      "EMILIANO ZAPATA": 2,
+      "HUITZILAC": 0,
+      "JIUTEPEC": 1,
+      "JONACATEPEC": 1,
+      "MIACATLÁN": 0,
+      "PUENTE DE IXTLA": 2,
+      "TEMIXCO": 1,
+      "TEPALCINGO": 7,
+      "TETECALA": 1,
+      "TLALNEPANTLA": 0,
+      "TLAQUILTENANGO": 2,
+      "XOCHITEPEC": 2,
+      "YAUTEPEC": 1,
+      "YECAPIXTLA": 2,
+      "ZACATEPEC DE HIDALGO": 1
+    },
+    "Indeterminado": {
+      "AMACUZAC": 0,
+      "ATLATLAHUCAN": 0,
+      "AXOCHIAPAN": 0,
+      "CUAUTLA": 0,
+      "CUERNAVACA": 0,
+      "EMILIANO ZAPATA": 0,
+      "HUITZILAC": 0,
+      "JIUTEPEC": 0,
+      "JONACATEPEC": 0,
+      "MIACATLÁN": 0,
+      "PUENTE DE IXTLA": 0,
+      "TEMIXCO": 0,
+      "TEPALCINGO": 0,
+      "TETECALA": 0,
+      "TLALNEPANTLA": 0,
+      "TLAQUILTENANGO": 0,
+      "XOCHITEPEC": 0,
+      "YAUTEPEC": 0,
+      "YECAPIXTLA": 0,
+      "ZACATEPEC DE HIDALGO": 0
+    },
+    "Mujeres": {
+      "AMACUZAC": 0,
+      "ATLATLAHUCAN": 2,
+      "AXOCHIAPAN": 2,
+      "CUAUTLA": 3,
+      "CUERNAVACA": 6,
+      "EMILIANO ZAPATA": 0,
+      "HUITZILAC": 1,
+      "JIUTEPEC": 2,
+      "JONACATEPEC": 0,
+      "MIACATLÁN": 1,
+      "PUENTE DE IXTLA": 1,
+      "TEMIXCO": 2,
+      "TEPALCINGO": 9,
+      "TETECALA": 0,
+      "TLALNEPANTLA": 1,
+      "TLAQUILTENANGO": 0,
+      "XOCHITEPEC": 6,
+      "YAUTEPEC": 3,
+      "YECAPIXTLA": 0,
+      "ZACATEPEC DE HIDALGO": 0
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 1,
+      "2015": 1,
+      "2020": 8,
+      "2021": 14,
+      "2022": 6,
+      "2023": 1
+    },
+    "Indeterminado": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 0,
+      "2015": 0,
+      "2020": 0,
+      "2021": 0,
+      "2022": 0,
+      "2023": 0
+    },
+    "Mujer": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 0,
+      "2015": 1,
+      "2020": 12,
+      "2021": 18,
+      "2022": 8,
+      "2023": 0
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "2021-AGOSTO": 0,
+      "2021-DICIEMBRE": 5,
+      "2021-NOVIEMBRE": 1,
+      "2021-OCTUBRE": 0,
+      "2021-SEPTIEMBRE": 1,
+      "2022-ABRIL": 1,
+      "2022-ENERO": 1,
+      "2022-FEBRERO": 0,
+      "2022-JULIO": 1,
+      "2022-MAYO": 1,
+      "2022-OCTUBRE": 2,
+      "2023-FEBRERO": 1
+    },
+    "Indeterminado": {
+      "2021-AGOSTO": 0,
+      "2021-DICIEMBRE": 0,
+      "2021-NOVIEMBRE": 0,
+      "2021-OCTUBRE": 0,
+      "2021-SEPTIEMBRE": 0,
+      "2022-ABRIL": 0,
+      "2022-ENERO": 0,
+      "2022-FEBRERO": 0,
+      "2022-JULIO": 0,
+      "2022-MAYO": 0,
+      "2022-OCTUBRE": 0,
+      "2023-FEBRERO": 0
+    },
+    "Mujer": {
+      "2021-AGOSTO": 2,
+      "2021-DICIEMBRE": 2,
+      "2021-NOVIEMBRE": 2,
+      "2021-OCTUBRE": 1,
+      "2021-SEPTIEMBRE": 0,
+      "2022-ABRIL": 2,
+      "2022-ENERO": 1,
+      "2022-FEBRERO": 2,
+      "2022-JULIO": 2,
+      "2022-MAYO": 1,
+      "2022-OCTUBRE": 0,
+      "2023-FEBRERO": 0
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "10": 1,
+      "11": 0,
+      "12": 4,
+      "13": 2,
+      "14": 4,
+      "15": 0,
+      "16": 5,
+      "17": 4,
+      "18": 5,
+      "19": 6
+    },
+    "Indeterminado": {
+      "10": 0,
+      "11": 0,
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0
+    },
+    "Mujeres": {
+      "10": 1,
+      "11": 4,
+      "12": 1,
+      "13": 4,
+      "14": 7,
+      "15": 4,
+      "16": 9,
+      "17": 4,
+      "18": 5,
+      "19": 2
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "ESTADOUNIDENSE": 0,
+      "MEXICANA": 31
+    },
+    "Indeterminado": {
+      "ESTADOUNIDENSE": 0,
+      "MEXICANA": 0
+    },
+    "Mujeres": {
+      "ESTADOUNIDENSE": 1,
+      "MEXICANA": 38
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS NO LOCALIZADAS",
+    "id_estatus_victima": "5",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "17",
+    "id_municipio": "0",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "10",
+    "edad_fin": "19",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

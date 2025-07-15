@@ -1,0 +1,215 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "0.00",
+    "PorcentajeLocalizados": "100.00",
+    "PorcentajeLocalizadosCV": "0.00",
+    "PorcentajeLocalizadosSV": "100.00",
+    "PorcentajeSoloDesaparecidos": "0.00",
+    "PorcentajeSoloNoLocalizados": "0.00",
+    "TotalDesaparecidos": "00",
+    "TotalGlobal": "23",
+    "TotalLocalizados": "23",
+    "TotalLocalizadosCV": "00",
+    "TotalLocalizadosSV": "23",
+    "TotalSoloDesaparecidos": "00",
+    "TotalSoloNoLocalizados": "00"
+  },
+  "espacial": {
+    "Hombres": {
+      "ACALA": 1,
+      "CHIAPA DE CORZO": 1,
+      "COMITÁN DE DOMÍNGUEZ": 1,
+      "FRONTERA COMALAPA": 1,
+      "LA TRINITARIA": 1,
+      "MOTOZINTLA": 1,
+      "OCOZOCOAUTLA DE ESPINOSA": 1,
+      "PIJIJIAPAN": 0,
+      "SAN ANDRÉS DURAZNAL": 1,
+      "SAN CRISTÓBAL DE LAS CASAS": 3,
+      "TAPACHULA": 2,
+      "TUXTLA GUTIÉRREZ": 1,
+      "VILLAFLORES": 3,
+      "YAJALÓN": 1
+    },
+    "Indeterminado": {
+      "ACALA": 0,
+      "CHIAPA DE CORZO": 0,
+      "COMITÁN DE DOMÍNGUEZ": 0,
+      "FRONTERA COMALAPA": 0,
+      "LA TRINITARIA": 0,
+      "MOTOZINTLA": 0,
+      "OCOZOCOAUTLA DE ESPINOSA": 0,
+      "PIJIJIAPAN": 0,
+      "SAN ANDRÉS DURAZNAL": 0,
+      "SAN CRISTÓBAL DE LAS CASAS": 0,
+      "TAPACHULA": 0,
+      "TUXTLA GUTIÉRREZ": 0,
+      "VILLAFLORES": 0,
+      "YAJALÓN": 0
+    },
+    "Mujeres": {
+      "ACALA": 0,
+      "CHIAPA DE CORZO": 0,
+      "COMITÁN DE DOMÍNGUEZ": 1,
+      "FRONTERA COMALAPA": 0,
+      "LA TRINITARIA": 0,
+      "MOTOZINTLA": 0,
+      "OCOZOCOAUTLA DE ESPINOSA": 0,
+      "PIJIJIAPAN": 1,
+      "SAN ANDRÉS DURAZNAL": 0,
+      "SAN CRISTÓBAL DE LAS CASAS": 0,
+      "TAPACHULA": 2,
+      "TUXTLA GUTIÉRREZ": 1,
+      "VILLAFLORES": 0,
+      "YAJALÓN": 0
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "2009": 0,
+      "2014": 0,
+      "2016": 1,
+      "2017": 1,
+      "2019": 1,
+      "2020": 3,
+      "2022": 4,
+      "2023": 4,
+      "2024": 4
+    },
+    "Indeterminado": {
+      "2009": 0,
+      "2014": 0,
+      "2016": 0,
+      "2017": 0,
+      "2019": 0,
+      "2020": 0,
+      "2022": 0,
+      "2023": 0,
+      "2024": 0
+    },
+    "Mujer": {
+      "2009": 1,
+      "2014": 1,
+      "2016": 1,
+      "2017": 0,
+      "2019": 0,
+      "2020": 0,
+      "2022": 0,
+      "2023": 2,
+      "2024": 0
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "2022-DICIEMBRE": 1,
+      "2022-JULIO": 1,
+      "2022-MAYO": 1,
+      "2023-ABRIL": 0,
+      "2023-ENERO": 1,
+      "2023-MAYO": 1,
+      "2023-NOVIEMBRE": 1,
+      "2023-OCTUBRE": 0,
+      "2023-SEPTIEMBRE": 1,
+      "2024-JUNIO": 2,
+      "2024-MARZO": 1,
+      "2024-MAYO": 1
+    },
+    "Indeterminado": {
+      "2022-DICIEMBRE": 0,
+      "2022-JULIO": 0,
+      "2022-MAYO": 0,
+      "2023-ABRIL": 0,
+      "2023-ENERO": 0,
+      "2023-MAYO": 0,
+      "2023-NOVIEMBRE": 0,
+      "2023-OCTUBRE": 0,
+      "2023-SEPTIEMBRE": 0,
+      "2024-JUNIO": 0,
+      "2024-MARZO": 0,
+      "2024-MAYO": 0
+    },
+    "Mujer": {
+      "2022-DICIEMBRE": 0,
+      "2022-JULIO": 0,
+      "2022-MAYO": 0,
+      "2023-ABRIL": 1,
+      "2023-ENERO": 0,
+      "2023-MAYO": 0,
+      "2023-NOVIEMBRE": 0,
+      "2023-OCTUBRE": 1,
+      "2023-SEPTIEMBRE": 0,
+      "2024-JUNIO": 0,
+      "2024-MARZO": 0,
+      "2024-MAYO": 0
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "13": 1,
+      "16": 5,
+      "17": 4,
+      "18": 5,
+      "19": 3
+    },
+    "Indeterminado": {
+      "13": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0
+    },
+    "Mujeres": {
+      "13": 0,
+      "16": 2,
+      "17": 1,
+      "18": 0,
+      "19": 2
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "MEXICANA": 17,
+      "VENEZOLANA": 1
+    },
+    "Indeterminado": {
+      "MEXICANA": 0,
+      "VENEZOLANA": 0
+    },
+    "Mujeres": {
+      "MEXICANA": 5,
+      "VENEZOLANA": 0
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS LOCALIZADAS SIN VIDA",
+    "id_estatus_victima": "3",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "7",
+    "id_municipio": "0",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "10",
+    "edad_fin": "19",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

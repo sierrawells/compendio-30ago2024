@@ -1,0 +1,215 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "0.00",
+    "PorcentajeLocalizados": "100.00",
+    "PorcentajeLocalizadosCV": "0.00",
+    "PorcentajeLocalizadosSV": "100.00",
+    "PorcentajeSoloDesaparecidos": "0.00",
+    "PorcentajeSoloNoLocalizados": "0.00",
+    "TotalDesaparecidos": "00",
+    "TotalGlobal": "16",
+    "TotalLocalizados": "16",
+    "TotalLocalizadosCV": "00",
+    "TotalLocalizadosSV": "16",
+    "TotalSoloDesaparecidos": "00",
+    "TotalSoloNoLocalizados": "00"
+  },
+  "espacial": {
+    "Hombres": {
+      "ACONCHI": 1,
+      "BÁCUM": 1,
+      "CABORCA": 1,
+      "CAJEME": 0,
+      "GUAYMAS": 0,
+      "HERMOSILLO": 2,
+      "NOGALES": 3,
+      "SANTA ANA": 2,
+      "SIN MUNICIPIO DE REFERENCIA": 1
+    },
+    "Indeterminado": {
+      "ACONCHI": 0,
+      "BÁCUM": 0,
+      "CABORCA": 0,
+      "CAJEME": 0,
+      "GUAYMAS": 0,
+      "HERMOSILLO": 0,
+      "NOGALES": 0,
+      "SANTA ANA": 0,
+      "SIN MUNICIPIO DE REFERENCIA": 0
+    },
+    "Mujeres": {
+      "ACONCHI": 0,
+      "BÁCUM": 0,
+      "CABORCA": 0,
+      "CAJEME": 2,
+      "GUAYMAS": 1,
+      "HERMOSILLO": 1,
+      "NOGALES": 1,
+      "SANTA ANA": 0,
+      "SIN MUNICIPIO DE REFERENCIA": 0
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 2,
+      "2010": 3,
+      "2013": 2,
+      "2014": 1,
+      "2016": 1,
+      "2018": 0,
+      "2020": 1,
+      "2021": 0,
+      "2023": 1
+    },
+    "Indeterminado": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 0,
+      "2010": 0,
+      "2013": 0,
+      "2014": 0,
+      "2016": 0,
+      "2018": 0,
+      "2020": 0,
+      "2021": 0,
+      "2023": 0
+    },
+    "Mujer": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 0,
+      "2010": 0,
+      "2013": 3,
+      "2014": 0,
+      "2016": 0,
+      "2018": 1,
+      "2020": 0,
+      "2021": 1,
+      "2023": 0
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "2010-JULIO": 2,
+      "2013-JUNIO": 1,
+      "2013-MAYO": 0,
+      "2013-NOVIEMBRE": 1,
+      "2013-OCTUBRE": 0,
+      "2013-SEPTIEMBRE": 0,
+      "2014-MAYO": 1,
+      "2016-DICIEMBRE": 1,
+      "2018-OCTUBRE": 0,
+      "2020-JUNIO": 1,
+      "2021-SEPTIEMBRE": 0,
+      "2023-ENERO": 1
+    },
+    "Indeterminado": {
+      "2010-JULIO": 0,
+      "2013-JUNIO": 0,
+      "2013-MAYO": 0,
+      "2013-NOVIEMBRE": 0,
+      "2013-OCTUBRE": 0,
+      "2013-SEPTIEMBRE": 0,
+      "2014-MAYO": 0,
+      "2016-DICIEMBRE": 0,
+      "2018-OCTUBRE": 0,
+      "2020-JUNIO": 0,
+      "2021-SEPTIEMBRE": 0,
+      "2023-ENERO": 0
+    },
+    "Mujer": {
+      "2010-JULIO": 0,
+      "2013-JUNIO": 0,
+      "2013-MAYO": 1,
+      "2013-NOVIEMBRE": 0,
+      "2013-OCTUBRE": 1,
+      "2013-SEPTIEMBRE": 1,
+      "2014-MAYO": 0,
+      "2016-DICIEMBRE": 0,
+      "2018-OCTUBRE": 1,
+      "2020-JUNIO": 0,
+      "2021-SEPTIEMBRE": 1,
+      "2023-ENERO": 0
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "12": 1,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 2,
+      "17": 2,
+      "18": 3,
+      "19": 3
+    },
+    "Indeterminado": {
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0
+    },
+    "Mujeres": {
+      "12": 0,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 0,
+      "17": 2,
+      "18": 0,
+      "19": 0
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "GUATEMALTECA": 1,
+      "HONDUREÑA": 1,
+      "MEXICANA": 9,
+      "SE DESCONOCE": 0
+    },
+    "Indeterminado": {
+      "GUATEMALTECA": 0,
+      "HONDUREÑA": 0,
+      "MEXICANA": 0,
+      "SE DESCONOCE": 0
+    },
+    "Mujeres": {
+      "GUATEMALTECA": 0,
+      "HONDUREÑA": 0,
+      "MEXICANA": 4,
+      "SE DESCONOCE": 1
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS LOCALIZADAS SIN VIDA",
+    "id_estatus_victima": "3",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "26",
+    "id_municipio": "0",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "10",
+    "edad_fin": "19",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

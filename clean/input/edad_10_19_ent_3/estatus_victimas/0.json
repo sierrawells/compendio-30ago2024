@@ -1,0 +1,230 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "9.08",
+    "PorcentajeLocalizados": "90.92",
+    "PorcentajeLocalizadosCV": "98.85",
+    "PorcentajeLocalizadosSV": "1.15",
+    "PorcentajeSoloDesaparecidos": "90.38",
+    "PorcentajeSoloNoLocalizados": "9.62",
+    "TotalDesaparecidos": "52",
+    "TotalGlobal": "573",
+    "TotalLocalizados": "521",
+    "TotalLocalizadosCV": "515",
+    "TotalLocalizadosSV": "06",
+    "TotalSoloDesaparecidos": "47",
+    "TotalSoloNoLocalizados": "05"
+  },
+  "espacial": {
+    "Hombres": {
+      "COMONDÚ": 4,
+      "LA PAZ": 71,
+      "LORETO": 4,
+      "LOS CABOS": 81,
+      "MULEGÉ": 6,
+      "SE DESCONOCE": 0,
+      "SIN MUNICIPIO DE REFERENCIA": 8
+    },
+    "Indeterminado": {
+      "COMONDÚ": 0,
+      "LA PAZ": 0,
+      "LORETO": 0,
+      "LOS CABOS": 0,
+      "MULEGÉ": 0,
+      "SE DESCONOCE": 0,
+      "SIN MUNICIPIO DE REFERENCIA": 0
+    },
+    "Mujeres": {
+      "COMONDÚ": 17,
+      "LA PAZ": 174,
+      "LORETO": 6,
+      "LOS CABOS": 174,
+      "MULEGÉ": 14,
+      "SE DESCONOCE": 1,
+      "SIN MUNICIPIO DE REFERENCIA": 13
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 10,
+      "2003": 0,
+      "2011": 0,
+      "2012": 1,
+      "2013": 1,
+      "2015": 2,
+      "2016": 1,
+      "2017": 2,
+      "2018": 1,
+      "2019": 2,
+      "2020": 17,
+      "2021": 19,
+      "2022": 39,
+      "2023": 51,
+      "2024": 28
+    },
+    "Indeterminado": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 0,
+      "2003": 0,
+      "2011": 0,
+      "2012": 0,
+      "2013": 0,
+      "2015": 0,
+      "2016": 0,
+      "2017": 0,
+      "2018": 0,
+      "2019": 0,
+      "2020": 0,
+      "2021": 0,
+      "2022": 0,
+      "2023": 0,
+      "2024": 0
+    },
+    "Mujer": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 10,
+      "2003": 1,
+      "2011": 1,
+      "2012": 0,
+      "2013": 5,
+      "2015": 0,
+      "2016": 0,
+      "2017": 1,
+      "2018": 0,
+      "2019": 1,
+      "2020": 30,
+      "2021": 61,
+      "2022": 95,
+      "2023": 142,
+      "2024": 52
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "2023-AGOSTO": 5,
+      "2023-DICIEMBRE": 2,
+      "2023-NOVIEMBRE": 5,
+      "2023-OCTUBRE": 7,
+      "2023-SEPTIEMBRE": 6,
+      "2024-ABRIL": 2,
+      "2024-ENERO": 4,
+      "2024-FEBRERO": 4,
+      "2024-JULIO": 5,
+      "2024-JUNIO": 6,
+      "2024-MARZO": 5,
+      "2024-MAYO": 2
+    },
+    "Indeterminado": {
+      "2023-AGOSTO": 0,
+      "2023-DICIEMBRE": 0,
+      "2023-NOVIEMBRE": 0,
+      "2023-OCTUBRE": 0,
+      "2023-SEPTIEMBRE": 0,
+      "2024-ABRIL": 0,
+      "2024-ENERO": 0,
+      "2024-FEBRERO": 0,
+      "2024-JULIO": 0,
+      "2024-JUNIO": 0,
+      "2024-MARZO": 0,
+      "2024-MAYO": 0
+    },
+    "Mujer": {
+      "2023-AGOSTO": 15,
+      "2023-DICIEMBRE": 8,
+      "2023-NOVIEMBRE": 12,
+      "2023-OCTUBRE": 12,
+      "2023-SEPTIEMBRE": 11,
+      "2024-ABRIL": 11,
+      "2024-ENERO": 4,
+      "2024-FEBRERO": 6,
+      "2024-JULIO": 4,
+      "2024-JUNIO": 11,
+      "2024-MARZO": 8,
+      "2024-MAYO": 8
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "10": 6,
+      "11": 5,
+      "12": 6,
+      "13": 16,
+      "14": 24,
+      "15": 23,
+      "16": 30,
+      "17": 28,
+      "18": 17,
+      "19": 19
+    },
+    "Indeterminado": {
+      "10": 0,
+      "11": 0,
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0
+    },
+    "Mujeres": {
+      "10": 3,
+      "11": 9,
+      "12": 20,
+      "13": 48,
+      "14": 63,
+      "15": 83,
+      "16": 73,
+      "17": 54,
+      "18": 28,
+      "19": 18
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "MEXICANA": 174,
+      "NICARAGUENSE": 0,
+      "SIN NACIONALIDAD DE REFERENCIA": 0
+    },
+    "Indeterminado": {
+      "MEXICANA": 0,
+      "NICARAGUENSE": 0,
+      "SIN NACIONALIDAD DE REFERENCIA": 0
+    },
+    "Mujeres": {
+      "MEXICANA": 397,
+      "NICARAGUENSE": 1,
+      "SIN NACIONALIDAD DE REFERENCIA": 1
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS DESAPARECIDAS, NO LOCALIZADAS Y LOCALIZADAS",
+    "id_estatus_victima": "0",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "3",
+    "id_municipio": "0",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "10",
+    "edad_fin": "19",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "0.00",
+    "PorcentajeLocalizados": "100.00",
+    "PorcentajeLocalizadosCV": "0.00",
+    "PorcentajeLocalizadosSV": "100.00",
+    "PorcentajeSoloDesaparecidos": "0.00",
+    "PorcentajeSoloNoLocalizados": "0.00",
+    "TotalDesaparecidos": "00",
+    "TotalGlobal": "35",
+    "TotalLocalizados": "35",
+    "TotalLocalizadosCV": "00",
+    "TotalLocalizadosSV": "35",
+    "TotalSoloDesaparecidos": "00",
+    "TotalSoloNoLocalizados": "00"
+  },
+  "espacial": {
+    "Hombres": {
+      "ALVARO OBREGÓN": 1,
+      "APATZINGÁN": 1,
+      "COENEO": 2,
+      "CUITZEO": 1,
+      "HUETAMO": 1,
+      "JIQUILPAN": 1,
+      "JOSÉ SIXTO VERDUZCO": 1,
+      "MARAVATÍO": 1,
+      "MORELIA": 8,
+      "PURUÁNDIRO": 1,
+      "QUERÉNDARO": 1,
+      "SIN MUNICIPIO DE REFERENCIA": 1,
+      "TANGANCÍCUARO": 1,
+      "TARÍMBARO": 0,
+      "VENUSTIANO CARRANZA": 1,
+      "ZAMORA": 3,
+      "ZINAPÉCUARO": 1,
+      "ZITÁCUARO": 3
+    },
+    "Indeterminado": {
+      "ALVARO OBREGÓN": 0,
+      "APATZINGÁN": 0,
+      "COENEO": 0,
+      "CUITZEO": 0,
+      "HUETAMO": 0,
+      "JIQUILPAN": 0,
+      "JOSÉ SIXTO VERDUZCO": 0,
+      "MARAVATÍO": 0,
+      "MORELIA": 0,
+      "PURUÁNDIRO": 0,
+      "QUERÉNDARO": 0,
+      "SIN MUNICIPIO DE REFERENCIA": 0,
+      "TANGANCÍCUARO": 0,
+      "TARÍMBARO": 0,
+      "VENUSTIANO CARRANZA": 0,
+      "ZAMORA": 0,
+      "ZINAPÉCUARO": 0,
+      "ZITÁCUARO": 0
+    },
+    "Mujeres": {
+      "ALVARO OBREGÓN": 0,
+      "APATZINGÁN": 0,
+      "COENEO": 2,
+      "CUITZEO": 0,
+      "HUETAMO": 0,
+      "JIQUILPAN": 0,
+      "JOSÉ SIXTO VERDUZCO": 0,
+      "MARAVATÍO": 0,
+      "MORELIA": 2,
+      "PURUÁNDIRO": 0,
+      "QUERÉNDARO": 0,
+      "SIN MUNICIPIO DE REFERENCIA": 0,
+      "TANGANCÍCUARO": 0,
+      "TARÍMBARO": 1,
+      "VENUSTIANO CARRANZA": 0,
+      "ZAMORA": 1,
+      "ZINAPÉCUARO": 0,
+      "ZITÁCUARO": 0
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "2011": 0,
+      "2013": 1,
+      "2015": 1,
+      "2016": 1,
+      "2017": 1,
+      "2018": 1,
+      "2019": 3,
+      "2021": 4,
+      "2022": 2,
+      "2023": 10,
+      "2024": 5
+    },
+    "Indeterminado": {
+      "2011": 0,
+      "2013": 0,
+      "2015": 0,
+      "2016": 0,
+      "2017": 0,
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0,
+      "2023": 0,
+      "2024": 0
+    },
+    "Mujer": {
+      "2011": 1,
+      "2013": 0,
+      "2015": 0,
+      "2016": 0,
+      "2017": 0,
+      "2018": 1,
+      "2019": 3,
+      "2021": 0,
+      "2022": 0,
+      "2023": 0,
+      "2024": 1
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "2022-AGOSTO": 1,
+      "2022-OCTUBRE": 1,
+      "2023-ABRIL": 1,
+      "2023-AGOSTO": 1,
+      "2023-ENERO": 1,
+      "2023-FEBRERO": 3,
+      "2023-MARZO": 2,
+      "2023-MAYO": 2,
+      "2024-ABRIL": 1,
+      "2024-ENERO": 2,
+      "2024-MARZO": 1,
+      "2024-MAYO": 1
+    },
+    "Indeterminado": {
+      "2022-AGOSTO": 0,
+      "2022-OCTUBRE": 0,
+      "2023-ABRIL": 0,
+      "2023-AGOSTO": 0,
+      "2023-ENERO": 0,
+      "2023-FEBRERO": 0,
+      "2023-MARZO": 0,
+      "2023-MAYO": 0,
+      "2024-ABRIL": 0,
+      "2024-ENERO": 0,
+      "2024-MARZO": 0,
+      "2024-MAYO": 0
+    },
+    "Mujer": {
+      "2022-AGOSTO": 0,
+      "2022-OCTUBRE": 0,
+      "2023-ABRIL": 0,
+      "2023-AGOSTO": 0,
+      "2023-ENERO": 0,
+      "2023-FEBRERO": 0,
+      "2023-MARZO": 0,
+      "2023-MAYO": 0,
+      "2024-ABRIL": 0,
+      "2024-ENERO": 0,
+      "2024-MARZO": 0,
+      "2024-MAYO": 1
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "12": 0,
+      "14": 1,
+      "15": 2,
+      "16": 2,
+      "17": 8,
+      "18": 9,
+      "19": 7
+    },
+    "Indeterminado": {
+      "12": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0
+    },
+    "Mujeres": {
+      "12": 1,
+      "14": 2,
+      "15": 1,
+      "16": 0,
+      "17": 0,
+      "18": 2,
+      "19": 0
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "MEXICANA": 29
+    },
+    "Indeterminado": {
+      "MEXICANA": 0
+    },
+    "Mujeres": {
+      "MEXICANA": 6
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS LOCALIZADAS SIN VIDA",
+    "id_estatus_victima": "3",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "16",
+    "id_municipio": "0",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "10",
+    "edad_fin": "19",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "0.00",
+    "PorcentajeLocalizados": "100.00",
+    "PorcentajeLocalizadosCV": "0.00",
+    "PorcentajeLocalizadosSV": "100.00",
+    "PorcentajeSoloDesaparecidos": "0.00",
+    "PorcentajeSoloNoLocalizados": "0.00",
+    "TotalDesaparecidos": "00",
+    "TotalGlobal": "06",
+    "TotalLocalizados": "06",
+    "TotalLocalizadosCV": "00",
+    "TotalLocalizadosSV": "06",
+    "TotalSoloDesaparecidos": "00",
+    "TotalSoloNoLocalizados": "00"
+  },
+  "espacial": {
+    "Hombres": {
+      "MEXICALI": 0,
+      "PLAYAS DE ROSARITO": 1,
+      "TIJUANA": 4
+    },
+    "Indeterminado": {
+      "MEXICALI": 0,
+      "PLAYAS DE ROSARITO": 0,
+      "TIJUANA": 0
+    },
+    "Mujeres": {
+      "MEXICALI": 1,
+      "PLAYAS DE ROSARITO": 0,
+      "TIJUANA": 0
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "2008": 0,
+      "2013": 1,
+      "2014": 1,
+      "2017": 2,
+      "2020": 1
+    },
+    "Indeterminado": {
+      "2008": 0,
+      "2013": 0,
+      "2014": 0,
+      "2017": 0,
+      "2020": 0
+    },
+    "Mujer": {
+      "2008": 1,
+      "2013": 0,
+      "2014": 0,
+      "2017": 0,
+      "2020": 0
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "2008-MAYO": 0,
+      "2013-MARZO": 1,
+      "2014-JUNIO": 1,
+      "2017-ENERO": 1,
+      "2017-FEBRERO": 1,
+      "2020-MAYO": 1
+    },
+    "Indeterminado": {
+      "2008-MAYO": 0,
+      "2013-MARZO": 0,
+      "2014-JUNIO": 0,
+      "2017-ENERO": 0,
+      "2017-FEBRERO": 0,
+      "2020-MAYO": 0
+    },
+    "Mujer": {
+      "2008-MAYO": 1,
+      "2013-MARZO": 0,
+      "2014-JUNIO": 0,
+      "2017-ENERO": 0,
+      "2017-FEBRERO": 0,
+      "2020-MAYO": 0
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "15": 1,
+      "17": 3,
+      "19": 1
+    },
+    "Indeterminado": {
+      "15": 0,
+      "17": 0,
+      "19": 0
+    },
+    "Mujeres": {
+      "15": 0,
+      "17": 1,
+      "19": 0
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "MEXICANA": 5
+    },
+    "Indeterminado": {
+      "MEXICANA": 0
+    },
+    "Mujeres": {
+      "MEXICANA": 1
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS LOCALIZADAS SIN VIDA",
+    "id_estatus_victima": "3",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "2",
+    "id_municipio": "0",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "10",
+    "edad_fin": "19",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "100.00",
+    "PorcentajeLocalizados": "0.00",
+    "PorcentajeLocalizadosCV": "0.00",
+    "PorcentajeLocalizadosSV": "0.00",
+    "PorcentajeSoloDesaparecidos": "0.00",
+    "PorcentajeSoloNoLocalizados": "100.00",
+    "TotalDesaparecidos": "58",
+    "TotalGlobal": "58",
+    "TotalLocalizados": "00",
+    "TotalLocalizadosCV": "00",
+    "TotalLocalizadosSV": "00",
+    "TotalSoloDesaparecidos": "00",
+    "TotalSoloNoLocalizados": "58"
+  },
+  "espacial": {
+    "Hombres": {
+      "CUILÁPAM DE GUERRERO": 0,
+      "OAXACA DE JUÁREZ": 10,
+      "SAN AGUSTÍN ETLA": 0,
+      "SAN ANDRÉS HUAYAPAM": 0,
+      "SAN ANTONIO DE LA CAL": 1,
+      "SAN BARTOLO COYOTEPEC": 0,
+      "SAN PABLO HUIXTEPEC": 1,
+      "SAN PEDRO Y SAN PABLO AYUTLA": 1,
+      "SAN SEBASTIÁN TUTLA": 1,
+      "SANTA CRUZ AMILPAS": 0,
+      "SANTA CRUZ XOXOCOTLÁN": 1,
+      "SANTA LUCÍA DEL CAMINO": 1,
+      "SANTA MARÍA ATZOMPA": 0,
+      "SANTA MARÍA DEL TULE": 0,
+      "TLACOLULA DE MATAMOROS": 0,
+      "VILLA DE ZAACHILA": 0
+    },
+    "Indeterminado": {
+      "CUILÁPAM DE GUERRERO": 0,
+      "OAXACA DE JUÁREZ": 0,
+      "SAN AGUSTÍN ETLA": 0,
+      "SAN ANDRÉS HUAYAPAM": 0,
+      "SAN ANTONIO DE LA CAL": 0,
+      "SAN BARTOLO COYOTEPEC": 0,
+      "SAN PABLO HUIXTEPEC": 0,
+      "SAN PEDRO Y SAN PABLO AYUTLA": 0,
+      "SAN SEBASTIÁN TUTLA": 0,
+      "SANTA CRUZ AMILPAS": 0,
+      "SANTA CRUZ XOXOCOTLÁN": 0,
+      "SANTA LUCÍA DEL CAMINO": 0,
+      "SANTA MARÍA ATZOMPA": 0,
+      "SANTA MARÍA DEL TULE": 0,
+      "TLACOLULA DE MATAMOROS": 0,
+      "VILLA DE ZAACHILA": 0
+    },
+    "Mujeres": {
+      "CUILÁPAM DE GUERRERO": 3,
+      "OAXACA DE JUÁREZ": 20,
+      "SAN AGUSTÍN ETLA": 1,
+      "SAN ANDRÉS HUAYAPAM": 1,
+      "SAN ANTONIO DE LA CAL": 2,
+      "SAN BARTOLO COYOTEPEC": 1,
+      "SAN PABLO HUIXTEPEC": 0,
+      "SAN PEDRO Y SAN PABLO AYUTLA": 0,
+      "SAN SEBASTIÁN TUTLA": 2,
+      "SANTA CRUZ AMILPAS": 1,
+      "SANTA CRUZ XOXOCOTLÁN": 5,
+      "SANTA LUCÍA DEL CAMINO": 1,
+      "SANTA MARÍA ATZOMPA": 2,
+      "SANTA MARÍA DEL TULE": 1,
+      "TLACOLULA DE MATAMOROS": 1,
+      "VILLA DE ZAACHILA": 1
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "2020": 2,
+      "2021": 0,
+      "2022": 13,
+      "2023": 1
+    },
+    "Indeterminado": {
+      "2020": 0,
+      "2021": 0,
+      "2022": 0,
+      "2023": 0
+    },
+    "Mujer": {
+      "2020": 2,
+      "2021": 14,
+      "2022": 26,
+      "2023": 0
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "2021-DICIEMBRE": 0,
+      "2021-NOVIEMBRE": 0,
+      "2021-OCTUBRE": 0,
+      "2021-SEPTIEMBRE": 0,
+      "2022-ABRIL": 0,
+      "2022-AGOSTO": 6,
+      "2022-JULIO": 4,
+      "2022-JUNIO": 1,
+      "2022-MAYO": 0,
+      "2022-NOVIEMBRE": 0,
+      "2022-SEPTIEMBRE": 2,
+      "2023-FEBRERO": 1
+    },
+    "Indeterminado": {
+      "2021-DICIEMBRE": 0,
+      "2021-NOVIEMBRE": 0,
+      "2021-OCTUBRE": 0,
+      "2021-SEPTIEMBRE": 0,
+      "2022-ABRIL": 0,
+      "2022-AGOSTO": 0,
+      "2022-JULIO": 0,
+      "2022-JUNIO": 0,
+      "2022-MAYO": 0,
+      "2022-NOVIEMBRE": 0,
+      "2022-SEPTIEMBRE": 0,
+      "2023-FEBRERO": 0
+    },
+    "Mujer": {
+      "2021-DICIEMBRE": 1,
+      "2021-NOVIEMBRE": 3,
+      "2021-OCTUBRE": 4,
+      "2021-SEPTIEMBRE": 2,
+      "2022-ABRIL": 1,
+      "2022-AGOSTO": 6,
+      "2022-JULIO": 7,
+      "2022-JUNIO": 9,
+      "2022-MAYO": 1,
+      "2022-NOVIEMBRE": 1,
+      "2022-SEPTIEMBRE": 1,
+      "2023-FEBRERO": 0
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "12": 0,
+      "13": 0,
+      "14": 1,
+      "15": 2,
+      "16": 5,
+      "17": 5,
+      "18": 1,
+      "19": 2
+    },
+    "Indeterminado": {
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0
+    },
+    "Mujeres": {
+      "12": 4,
+      "13": 4,
+      "14": 5,
+      "15": 6,
+      "16": 6,
+      "17": 4,
+      "18": 7,
+      "19": 6
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "ECUATORIANA": 0,
+      "ESTADOUNIDENSE": 0,
+      "GUATEMALTECA": 3,
+      "HONDUREÑA": 2,
+      "MEXICANA": 11
+    },
+    "Indeterminado": {
+      "ECUATORIANA": 0,
+      "ESTADOUNIDENSE": 0,
+      "GUATEMALTECA": 0,
+      "HONDUREÑA": 0,
+      "MEXICANA": 0
+    },
+    "Mujeres": {
+      "ECUATORIANA": 1,
+      "ESTADOUNIDENSE": 2,
+      "GUATEMALTECA": 0,
+      "HONDUREÑA": 0,
+      "MEXICANA": 39
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS NO LOCALIZADAS",
+    "id_estatus_victima": "5",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "20",
+    "id_municipio": "0",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "10",
+    "edad_fin": "19",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}

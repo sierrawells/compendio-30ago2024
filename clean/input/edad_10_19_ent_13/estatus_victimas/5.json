@@ -1,0 +1,221 @@
+{
+  "totales": {
+    "PorcentajeDesaparecidos": "100.00",
+    "PorcentajeLocalizados": "0.00",
+    "PorcentajeLocalizadosCV": "0.00",
+    "PorcentajeLocalizadosSV": "0.00",
+    "PorcentajeSoloDesaparecidos": "0.00",
+    "PorcentajeSoloNoLocalizados": "100.00",
+    "TotalDesaparecidos": "31",
+    "TotalGlobal": "31",
+    "TotalLocalizados": "00",
+    "TotalLocalizadosCV": "00",
+    "TotalLocalizadosSV": "00",
+    "TotalSoloDesaparecidos": "00",
+    "TotalSoloNoLocalizados": "31"
+  },
+  "espacial": {
+    "Hombres": {
+      "APAN": 0,
+      "ATITALAQUIA": 1,
+      "ATLAPEXCO": 0,
+      "ATOTONILCO DE TULA": 1,
+      "CUAUTEPEC DE HINOJOSA": 1,
+      "HUEHUETLA": 0,
+      "HUEJUTLA DE REYES": 1,
+      "MINERAL DE LA REFORMA": 1,
+      "PACHUCA DE SOTO": 5,
+      "SAN AGUSTÍN TLAXIACA": 0,
+      "TASQUILLO": 1,
+      "TEZONTEPEC DE ALDAMA": 1,
+      "TIZAYUCA": 3,
+      "TULA DE ALLENDE": 2,
+      "TULANCINGO DE BRAVO": 2
+    },
+    "Indeterminado": {
+      "APAN": 0,
+      "ATITALAQUIA": 0,
+      "ATLAPEXCO": 0,
+      "ATOTONILCO DE TULA": 0,
+      "CUAUTEPEC DE HINOJOSA": 0,
+      "HUEHUETLA": 0,
+      "HUEJUTLA DE REYES": 0,
+      "MINERAL DE LA REFORMA": 0,
+      "PACHUCA DE SOTO": 0,
+      "SAN AGUSTÍN TLAXIACA": 0,
+      "TASQUILLO": 0,
+      "TEZONTEPEC DE ALDAMA": 0,
+      "TIZAYUCA": 0,
+      "TULA DE ALLENDE": 0,
+      "TULANCINGO DE BRAVO": 0
+    },
+    "Mujeres": {
+      "APAN": 1,
+      "ATITALAQUIA": 0,
+      "ATLAPEXCO": 1,
+      "ATOTONILCO DE TULA": 0,
+      "CUAUTEPEC DE HINOJOSA": 0,
+      "HUEHUETLA": 2,
+      "HUEJUTLA DE REYES": 0,
+      "MINERAL DE LA REFORMA": 2,
+      "PACHUCA DE SOTO": 1,
+      "SAN AGUSTÍN TLAXIACA": 1,
+      "TASQUILLO": 0,
+      "TEZONTEPEC DE ALDAMA": 0,
+      "TIZAYUCA": 1,
+      "TULA DE ALLENDE": 1,
+      "TULANCINGO DE BRAVO": 2
+    }
+  },
+  "anual": {
+    "Hombre": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 1,
+      "2019": 1,
+      "2020": 1,
+      "2021": 14,
+      "2022": 2,
+      "2023": 0
+    },
+    "Indeterminado": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 0,
+      "2019": 0,
+      "2020": 0,
+      "2021": 0,
+      "2022": 0,
+      "2023": 0
+    },
+    "Mujer": {
+      "1.CIFRA SIN  AÑO DE REFERENCIA": 2,
+      "2019": 0,
+      "2020": 0,
+      "2021": 1,
+      "2022": 6,
+      "2023": 3
+    }
+  },
+  "mensual_ultimo_anio": {
+    "Hombre": {
+      "2021-ABRIL": 2,
+      "2021-JULIO": 3,
+      "2021-JUNIO": 3,
+      "2021-MAYO": 1,
+      "2022-AGOSTO": 0,
+      "2022-FEBRERO": 0,
+      "2022-NOVIEMBRE": 1,
+      "2022-OCTUBRE": 0,
+      "2022-SEPTIEMBRE": 1,
+      "2023-ABRIL": 0,
+      "2023-JUNIO": 0,
+      "2023-MARZO": 0
+    },
+    "Indeterminado": {
+      "2021-ABRIL": 0,
+      "2021-JULIO": 0,
+      "2021-JUNIO": 0,
+      "2021-MAYO": 0,
+      "2022-AGOSTO": 0,
+      "2022-FEBRERO": 0,
+      "2022-NOVIEMBRE": 0,
+      "2022-OCTUBRE": 0,
+      "2022-SEPTIEMBRE": 0,
+      "2023-ABRIL": 0,
+      "2023-JUNIO": 0,
+      "2023-MARZO": 0
+    },
+    "Mujer": {
+      "2021-ABRIL": 1,
+      "2021-JULIO": 0,
+      "2021-JUNIO": 0,
+      "2021-MAYO": 0,
+      "2022-AGOSTO": 2,
+      "2022-FEBRERO": 2,
+      "2022-NOVIEMBRE": 0,
+      "2022-OCTUBRE": 1,
+      "2022-SEPTIEMBRE": 1,
+      "2023-ABRIL": 1,
+      "2023-JUNIO": 1,
+      "2023-MARZO": 1
+    }
+  },
+  "por_edad": {
+    "Hombres": {
+      "10": 1,
+      "13": 1,
+      "14": 3,
+      "15": 1,
+      "16": 5,
+      "17": 5,
+      "18": 2,
+      "19": 1
+    },
+    "Indeterminado": {
+      "10": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0
+    },
+    "Mujeres": {
+      "10": 0,
+      "13": 0,
+      "14": 1,
+      "15": 4,
+      "16": 1,
+      "17": 3,
+      "18": 3,
+      "19": 0
+    }
+  },
+  "por_nacionalidad": {
+    "Hombres": {
+      "GUATEMALTECA": 1,
+      "HONDUREÑA": 6,
+      "MEXICANA": 12
+    },
+    "Indeterminado": {
+      "GUATEMALTECA": 0,
+      "HONDUREÑA": 0,
+      "MEXICANA": 0
+    },
+    "Mujeres": {
+      "GUATEMALTECA": 0,
+      "HONDUREÑA": 1,
+      "MEXICANA": 11
+    }
+  },
+  "parametros": {
+    "titulo": "PERSONAS NO LOCALIZADAS",
+    "id_estatus_victima": "5",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "id_estado": "13",
+    "id_municipio": "0",
+    "mostrar_fecha_nula": "0",
+    "id_colonia": "0",
+    "id_nacionalidad": "0",
+    "edad_inicio": "10",
+    "edad_fin": "19",
+    "mostrar_edad_nula": "0",
+    "id_hipotesis": "",
+    "id_medio_conocimiento": "",
+    "id_circunstancia": "",
+    "tiene_discapacidad": "",
+    "id_tipo_discapacidad": "0",
+    "id_etnia": "0",
+    "id_lengua": "0",
+    "id_religion": "",
+    "es_migrante": "",
+    "id_estatus_migratorio": "0",
+    "es_lgbttti": "",
+    "es_servidor_publico": "",
+    "es_defensor_dh": "",
+    "es_periodista": "",
+    "es_sindicalista": "",
+    "es_ong": "",
+    "id_hipotesis_no_localizacion": "0",
+    "id_delito": "0"
+  }
+}
